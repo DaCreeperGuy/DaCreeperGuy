@@ -2,7 +2,7 @@
 - 👀 I’m interested in gameing
 - 🌱 I’m currently learning bach
 - 💞️ I’m looking to collaborate on nothing now
-- 📫 How to reach me 
+- 📫 How to reach me on discord spinkleboi#0159
 
 <!---
 spinkleboi/spinkleboi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
