@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @DaCreeperGuy
+- 👋 Hi, I’m Emily
 - 👀 I’m interested in gameing
 - 🌱 I’m currently learning bach
 - 💞️ I’m looking to collaborate on Creeper Client
-- 📫 How to reach me on discord TheCreeperGuy#9999
+- 📫 How to reach me on discord Emzy#1234
 
 <!---
 DaCreeperGuy/DaCreeperGuy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
